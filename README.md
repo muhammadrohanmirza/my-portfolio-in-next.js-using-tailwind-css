@@ -1,3 +1,9 @@
+"# my-personal-portfolios" 
+[Follow on Linkedin](https://www.linkedin.com/in/muhammad-rohan-mirza/)
+
+"# portfolio in tailwind css"
+[my-portfolio in next.js using tailwind css](https://portfolio-tailwind-6oq3gesrj-rohan-mirzas-projects.vercel.app)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
